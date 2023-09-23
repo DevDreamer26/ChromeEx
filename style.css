@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 2rem;
+    font-family: serif;
+    min-width: 400px;
+    background-image: url("https://images.pexels.com/photos/916017/pexels-photo-916017.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  #tab-btn {
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    padding: 0.5rem 1rem;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  ul {
+    margin-top: 2rem;
+    padding-left: 0;
+    list-style: none;
+  }
+  
+  li {
+    margin-top: 0.5rem;
+  }
+  
+  a {
+    color: #ffffff;
+  }
